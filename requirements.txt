@@ -7,3 +7,4 @@ passlib[bcrypt]
 jwt
 httpx
 pytest
+jose

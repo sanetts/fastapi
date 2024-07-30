@@ -20,3 +20,7 @@ app.include_router(router)
 @app.options("/register/")
 async def options_register():
     return
+
+@app.options("/login/")
+async def options_login():
+    return
